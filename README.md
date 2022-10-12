@@ -1,2 +1,2 @@
-https://meharsuleiman.github.io/Fitness-club/
+https://meharsuleiman.github.io/6.Fitness-club/
 # Fitness-club
